@@ -1,2 +1,1 @@
-# E-commerce
-This project focuses on building an eCommerce web interface featuring dynamic product cards and horizontal card layouts. It enhances user experience by displaying products with details like price, image, and rating, making browsing, comparison, and purchasing more interactive and efficient.
+A **dynamic eCommerce web interface** featuring interactive product cards and horizontal card layouts. Each product card displays essential details like **price, image, and rating**, enabling users to browse, compare, and purchase efficiently. The design enhances user experience by providing a clean, responsive, and engaging shopping environment, making online navigation intuitive and visually appealing.
